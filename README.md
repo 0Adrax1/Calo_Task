@@ -2,38 +2,41 @@ The project demonstrates backend and frontend integration with real-time updates
 
 1. Setup Instructions:
 
-Node.js and npm installed
+- Node.js and npm installed
 
-A working .env file with the following keys:
+- A working .env file with the following keys:
 
-UNSPLASH_ACCESS_KEY=your_access_key_here
+- UNSPLASH_ACCESS_KEY=your_access_key_here
 
 2. Backend Setup
+
 Navigate to the frontend directory:
 
-cd server
+- cd server
 
 Install dependencies:
-npm install
+
+- npm install
 
 Start the server:
 
-npm start
+- npm start
 
 The backend will run on http://localhost:3000
 
 3. Frontend Setup
+
 Navigate to the frontend directory:
 
-cd frontend
+- cd frontend
 
 Install dependencies:
 
-npm install
+- npm install
 
 Start the React development server:
 
-npm start
+- npm start
 
 The frontend will run on http://localhost:5173
 

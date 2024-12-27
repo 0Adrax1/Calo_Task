@@ -47,5 +47,5 @@ Time Report
 - Backend Development	5.5 hours
 - Frontend Development	3 hours
 - Real-Time Functionality	2 hours
-- Testing and Debugging	3 hours
-- Total Time: 15 hours
+- Testing and Debugging	5 hours
+- Total Time: 17 hours

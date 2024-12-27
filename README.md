@@ -3,7 +3,9 @@ The project demonstrates backend and frontend integration with real-time updates
 1. Setup Instructions:
 
 Node.js and npm installed
+
 A working .env file with the following keys:
+
 UNSPLASH_ACCESS_KEY=your_access_key_here
 
 2. Backend Setup
